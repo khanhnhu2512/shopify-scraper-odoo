@@ -1,6 +1,6 @@
 # Overview
 
-Shopify Scraper Odoo is a web crawler for Odoo sample data
+Shopify Scraper Odoo is a tool that functions to collect data - the data needed, such as finding data from photos, prices, names and others and push it into Odoo sample data
 
 # Requirement
 
