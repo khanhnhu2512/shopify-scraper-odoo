@@ -2,7 +2,7 @@
   "name": "khanhnhu/shopify-scraper-odoo",
   "description": "Connect MailChimp with Magento",
   "type": "magento2-module",
-  "version": "10.0.1",
+  "version": "10.0.5",
   "authors": [
     {
       "name": "Khanh Nhu",
