@@ -1,0 +1,5 @@
+{
+    "repositories": [
+        {"type": "composer", "url": "https://khanhnhu.repo.repman.io"}
+    ]
+}
