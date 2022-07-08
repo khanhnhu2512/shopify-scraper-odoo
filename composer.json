@@ -1,6 +1,6 @@
 {
   "name": "khanhnhu/shopify-scraper-odoo",
-  "description": "Connect MailChimp with Magento",
+  "description": "Get Shopify data, make it become odoo sample data",
   "type": "magento2-module",
   "version": "1.0.0",
   "authors": [
